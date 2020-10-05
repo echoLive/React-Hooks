@@ -31,6 +31,7 @@ class Example extends React.Component {
 **Following is what you need for this book:**
 This book is for React developers who want to learn how to build applications with Hooks. Developers who are looking to migrate to React for its advanced feature set and capabilities will also find the book useful. 
 
+
 With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
 
 ### Software and Hardware List
@@ -38,6 +39,7 @@ With the following software and hardware list you can run all code files present
 | Chapter  | Software required                  | OS required                        |
 | -------- | -----------------------------------|------------------------------------|
 | 1-13     | Node.js v11.12.0                   | Windows, Mac OS X, and Linux (Any) |
+
 
 
 
