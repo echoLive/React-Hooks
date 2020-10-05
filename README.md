@@ -1,7 +1,5 @@
 # Learn React Hooks
 
-<a href="https://www.packtpub.com/web-development/learn-react-hooks?utm_source=github&utm_medium=repository&utm_campaign=9781838641443"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838641443-original.jpeg" alt="Learn React Hooks" height="256px" align="right"></a>
-
 This is the code repository for [Learn React Hooks](https://www.packtpub.com/web-development/learn-react-hooks?utm_source=github&utm_medium=repository&utm_campaign=9781838641443), published by Packt.
 
 **Build and refactor modern React.js applications using Hooks**
@@ -58,8 +56,6 @@ Click on the following link to see the Code in Action:
 
 ## Get to Know the Author
 **Daniel Bugl** is a developer, product designer, and entrepreneur focusing on web technologies. He has a Bachelor of Science degree in business informatics and information systems and is now studying data science at the Vienna University of Technology (TU Wien). He is a contributor to many open source projects and a member of the React community. He also founded and runs his own hardware/software start-up, TouchLay, which helps other companies present their products and services. At his company, he constantly works with web technologies, particularly making use of React and React Hooks.
-
-
 
 
 
